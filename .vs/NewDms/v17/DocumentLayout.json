@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\NewDesign\\NewDms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|e:\\newdesign\\newdms\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|e:\\newdesign\\newdms\\views\\operation\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|solutionrelative:views\\operation\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|e:\\newdesign\\newdms\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|e:\\newdesign\\newdms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|c:\\users\\icc 92\\.nuget\\packages\\bootstrap\\5.3.8\\contentfiles\\any\\any\\wwwroot\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|e:\\newdesign\\newdms\\controllers\\operationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|solutionrelative:controllers\\operationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|e:\\newdesign\\newdms\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|e:\\newdesign\\newdms\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|e:\\newdesign\\newdms\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|e:\\newdesign\\newdms\\newdms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|solutionrelative:newdms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "E:\\NewDesign\\NewDms\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "E:\\NewDesign\\NewDms\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-14T13:20:48.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\ICC 92\\.nuget\\packages\\bootstrap\\5.3.8\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\ICC 92\\.nuget\\packages\\bootstrap\\5.3.8\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css [Read Only]",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADYAAAAjAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-14T13:20:28.36Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\NewDesign\\NewDms\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\NewDesign\\NewDms\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T10:52:55.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "E:\\NewDesign\\NewDms\\Views\\Operation\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Operation\\Dashboard.cshtml",
+              "ToolTip": "E:\\NewDesign\\NewDms\\Views\\Operation\\Dashboard.cshtml",
+              "RelativeToolTip": "Views\\Operation\\Dashboard.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAmwDIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-14T10:44:44.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OperationController.cs",
+              "DocumentMoniker": "E:\\NewDesign\\NewDms\\Controllers\\OperationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OperationController.cs",
+              "ToolTip": "E:\\NewDesign\\NewDms\\Controllers\\OperationController.cs",
+              "RelativeToolTip": "Controllers\\OperationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T10:44:13.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\NewDesign\\NewDms\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\NewDesign\\NewDms\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-14T10:25:41.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAALQUAAAAAAAAAADgv8kUAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-10-14T11:39:24.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\NewDesign\\NewDms\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\NewDesign\\NewDms\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-14T10:36:08.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NewDms",
+              "DocumentMoniker": "E:\\NewDesign\\NewDms\\NewDms.csproj",
+              "RelativeDocumentMoniker": "NewDms.csproj",
+              "ToolTip": "E:\\NewDesign\\NewDms\\NewDms.csproj",
+              "RelativeToolTip": "NewDms.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-14T10:30:54.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\NewDesign\\NewDms\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\NewDesign\\NewDms\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-14T10:25:37.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\NewDesign\\NewDms\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "E:\\NewDesign\\NewDms\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T10:25:04.235Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
