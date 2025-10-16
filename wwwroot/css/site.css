@@ -20,6 +20,8 @@ html {
 body {
     margin-bottom: 60px;
     background: linear-gradient(135deg, #b0adad, #112841);
+    font-size:15px;
+    
 }
 .header {
     background-color: #eeedb9;
@@ -27,5 +29,14 @@ body {
 }
 
 .box {
-    background: linear-gradient(135deg, #221c1c, #112841);
+    background: linear-gradient(135deg, #475e71, #112841);
+}
+
+.box-green {
+    background: linear-gradient(135deg,#eeeeee,#eeecec);
+}
+
+.card:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 5px 10px rgba(210, 241, 83, 0.5);
 }

@@ -189,6 +189,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "E:\\NewDesign\\NewDms\\wwwroot\\icons\\eye.svg",
+      "PackagePath": "staticwebassets\\icons\\eye.svg"
+    },
+    {
+      "Id": "E:\\NewDesign\\NewDms\\wwwroot\\icons\\house-door.svg",
+      "PackagePath": "staticwebassets\\icons\\house-door.svg"
+    },
+    {
       "Id": "E:\\NewDesign\\NewDms\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
