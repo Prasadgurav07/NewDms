@@ -46,6 +46,10 @@ wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\icons\eye.svg
 wwwroot\icons\house-door.svg
+wwwroot\js\AccountScripts.js
+wwwroot\js\AuditScripts.js
+wwwroot\js\HrScripts.js
+wwwroot\js\OperationScripts.js
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map

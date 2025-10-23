@@ -178,7 +178,7 @@
     },
     {
       "Id": "E:\\NewDesign\\NewDms\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\NewDms.bundle.scp.css",
-      "PackagePath": "staticwebassets\\NewDms.m9zil94tlm.bundle.scp.css"
+      "PackagePath": "staticwebassets\\NewDms.d1138j4nsc.bundle.scp.css"
     },
     {
       "Id": "E:\\NewDesign\\NewDms\\wwwroot\\css\\site.css",
@@ -195,6 +195,22 @@
     {
       "Id": "E:\\NewDesign\\NewDms\\wwwroot\\icons\\house-door.svg",
       "PackagePath": "staticwebassets\\icons\\house-door.svg"
+    },
+    {
+      "Id": "E:\\NewDesign\\NewDms\\wwwroot\\js\\AccountScripts.js",
+      "PackagePath": "staticwebassets\\js\\AccountScripts.js"
+    },
+    {
+      "Id": "E:\\NewDesign\\NewDms\\wwwroot\\js\\AuditScripts.js",
+      "PackagePath": "staticwebassets\\js\\AuditScripts.js"
+    },
+    {
+      "Id": "E:\\NewDesign\\NewDms\\wwwroot\\js\\HrScripts.js",
+      "PackagePath": "staticwebassets\\js\\HrScripts.js"
+    },
+    {
+      "Id": "E:\\NewDesign\\NewDms\\wwwroot\\js\\OperationScripts.js",
+      "PackagePath": "staticwebassets\\js\\OperationScripts.js"
     },
     {
       "Id": "E:\\NewDesign\\NewDms\\wwwroot\\js\\site.js",

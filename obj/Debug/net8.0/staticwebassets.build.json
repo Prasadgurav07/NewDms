@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "eQRvP5Tc2fy9ufzLC2EpPN/dEkvuxieojvQZg1gCRMA=",
+  "Hash": "wL1oG+rFTXM5UPGfou7oj9z4VypiQtXIuhcMNJMsUaM=",
   "Source": "NewDms",
   "BasePath": "_content/NewDms",
   "Mode": "Default",
@@ -955,8 +955,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "m9zil94tlm",
-      "Integrity": "CvwdpPEywPZovGEDzGpbyItUVGIs92sB1H3atxdq1iQ=",
+      "Fingerprint": "d1138j4nsc",
+      "Integrity": "AVyJkijuh+BQYHisJ98hmlREl7He5Hq3Ya2H/cTEYQI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "E:\\NewDesign\\NewDms\\obj\\Debug\\net8.0\\scopedcss\\bundle\\NewDms.styles.css"
@@ -976,8 +976,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "m9zil94tlm",
-      "Integrity": "CvwdpPEywPZovGEDzGpbyItUVGIs92sB1H3atxdq1iQ=",
+      "Fingerprint": "d1138j4nsc",
+      "Integrity": "AVyJkijuh+BQYHisJ98hmlREl7He5Hq3Ya2H/cTEYQI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "E:\\NewDesign\\NewDms\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\NewDms.bundle.scp.css"
@@ -1065,6 +1065,90 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\icons\\house-door.svg"
+    },
+    {
+      "Identity": "E:\\NewDesign\\NewDms\\wwwroot\\js\\AccountScripts.js",
+      "SourceId": "NewDms",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\NewDesign\\NewDms\\wwwroot\\",
+      "BasePath": "_content/NewDms",
+      "RelativePath": "js/AccountScripts#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3r8b2a0bt1",
+      "Integrity": "8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\AccountScripts.js"
+    },
+    {
+      "Identity": "E:\\NewDesign\\NewDms\\wwwroot\\js\\AuditScripts.js",
+      "SourceId": "NewDms",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\NewDesign\\NewDms\\wwwroot\\",
+      "BasePath": "_content/NewDms",
+      "RelativePath": "js/AuditScripts#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3r8b2a0bt1",
+      "Integrity": "8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\AuditScripts.js"
+    },
+    {
+      "Identity": "E:\\NewDesign\\NewDms\\wwwroot\\js\\HrScripts.js",
+      "SourceId": "NewDms",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\NewDesign\\NewDms\\wwwroot\\",
+      "BasePath": "_content/NewDms",
+      "RelativePath": "js/HrScripts#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3r8b2a0bt1",
+      "Integrity": "8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\HrScripts.js"
+    },
+    {
+      "Identity": "E:\\NewDesign\\NewDms\\wwwroot\\js\\OperationScripts.js",
+      "SourceId": "NewDms",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\NewDesign\\NewDms\\wwwroot\\",
+      "BasePath": "_content/NewDms",
+      "RelativePath": "js/OperationScripts#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qzlwkrvq1w",
+      "Integrity": "VoeN482Pcjd+7GAE0kmPThVyGaq1Xq/TO8cOL6VOxSU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\OperationScripts.js"
     },
     {
       "Identity": "E:\\NewDesign\\NewDms\\wwwroot\\js\\site.js",
@@ -5260,6 +5344,170 @@
       ]
     },
     {
+      "Route": "js/AccountScripts.3r8b2a0bt1.js",
+      "AssetFile": "E:\\NewDesign\\NewDms\\wwwroot\\js\\AccountScripts.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Oct 2025 10:37:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3r8b2a0bt1"
+        },
+        {
+          "Name": "label",
+          "Value": "js/AccountScripts.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U="
+        }
+      ]
+    },
+    {
+      "Route": "js/AccountScripts.js",
+      "AssetFile": "E:\\NewDesign\\NewDms\\wwwroot\\js\\AccountScripts.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Oct 2025 10:37:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U="
+        }
+      ]
+    },
+    {
+      "Route": "js/AuditScripts.3r8b2a0bt1.js",
+      "AssetFile": "E:\\NewDesign\\NewDms\\wwwroot\\js\\AuditScripts.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Oct 2025 10:37:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3r8b2a0bt1"
+        },
+        {
+          "Name": "label",
+          "Value": "js/AuditScripts.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U="
+        }
+      ]
+    },
+    {
+      "Route": "js/AuditScripts.js",
+      "AssetFile": "E:\\NewDesign\\NewDms\\wwwroot\\js\\AuditScripts.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Oct 2025 10:37:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U="
+        }
+      ]
+    },
+    {
       "Route": "js/bootstrap.5svw5dju7q.js",
       "AssetFile": "C:\\Users\\ICC 92\\.nuget\\packages\\bootstrap\\5.3.8\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js",
       "Selectors": [],
@@ -6240,6 +6488,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-UrA9jZWcpT1pwfNME+YkIIDJrMu+AjfIKTSfd3ODwMs="
+        }
+      ]
+    },
+    {
+      "Route": "js/HrScripts.3r8b2a0bt1.js",
+      "AssetFile": "E:\\NewDesign\\NewDms\\wwwroot\\js\\HrScripts.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Oct 2025 10:36:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3r8b2a0bt1"
+        },
+        {
+          "Name": "label",
+          "Value": "js/HrScripts.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U="
+        }
+      ]
+    },
+    {
+      "Route": "js/HrScripts.js",
+      "AssetFile": "E:\\NewDesign\\NewDms\\wwwroot\\js\\HrScripts.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Oct 2025 10:36:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U="
+        }
+      ]
+    },
+    {
+      "Route": "js/OperationScripts.js",
+      "AssetFile": "E:\\NewDesign\\NewDms\\wwwroot\\js\\OperationScripts.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "394"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VoeN482Pcjd+7GAE0kmPThVyGaq1Xq/TO8cOL6VOxSU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Oct 2025 12:10:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VoeN482Pcjd+7GAE0kmPThVyGaq1Xq/TO8cOL6VOxSU="
+        }
+      ]
+    },
+    {
+      "Route": "js/OperationScripts.qzlwkrvq1w.js",
+      "AssetFile": "E:\\NewDesign\\NewDms\\wwwroot\\js\\OperationScripts.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "394"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VoeN482Pcjd+7GAE0kmPThVyGaq1Xq/TO8cOL6VOxSU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Oct 2025 12:10:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qzlwkrvq1w"
+        },
+        {
+          "Name": "label",
+          "Value": "js/OperationScripts.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VoeN482Pcjd+7GAE0kmPThVyGaq1Xq/TO8cOL6VOxSU="
         }
       ]
     },
@@ -11092,7 +11504,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1124"
+          "Value": "1133"
         },
         {
           "Name": "Content-Type",
@@ -11100,11 +11512,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CvwdpPEywPZovGEDzGpbyItUVGIs92sB1H3atxdq1iQ=\""
+          "Value": "\"AVyJkijuh+BQYHisJ98hmlREl7He5Hq3Ya2H/cTEYQI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 17 Oct 2025 12:41:19 GMT"
+          "Value": "Thu, 23 Oct 2025 12:07:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11114,12 +11526,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-CvwdpPEywPZovGEDzGpbyItUVGIs92sB1H3atxdq1iQ="
+          "Value": "sha256-AVyJkijuh+BQYHisJ98hmlREl7He5Hq3Ya2H/cTEYQI="
         }
       ]
     },
     {
-      "Route": "NewDms.m9zil94tlm.bundle.scp.css",
+      "Route": "NewDms.d1138j4nsc.bundle.scp.css",
       "AssetFile": "E:\\NewDesign\\NewDms\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\NewDms.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -11129,7 +11541,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1124"
+          "Value": "1133"
         },
         {
           "Name": "Content-Type",
@@ -11137,11 +11549,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CvwdpPEywPZovGEDzGpbyItUVGIs92sB1H3atxdq1iQ=\""
+          "Value": "\"AVyJkijuh+BQYHisJ98hmlREl7He5Hq3Ya2H/cTEYQI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 17 Oct 2025 12:41:19 GMT"
+          "Value": "Thu, 23 Oct 2025 12:07:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11151,7 +11563,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "m9zil94tlm"
+          "Value": "d1138j4nsc"
         },
         {
           "Name": "label",
@@ -11159,12 +11571,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-CvwdpPEywPZovGEDzGpbyItUVGIs92sB1H3atxdq1iQ="
+          "Value": "sha256-AVyJkijuh+BQYHisJ98hmlREl7He5Hq3Ya2H/cTEYQI="
         }
       ]
     },
     {
-      "Route": "NewDms.m9zil94tlm.styles.css",
+      "Route": "NewDms.d1138j4nsc.styles.css",
       "AssetFile": "E:\\NewDesign\\NewDms\\obj\\Debug\\net8.0\\scopedcss\\bundle\\NewDms.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -11174,7 +11586,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1124"
+          "Value": "1133"
         },
         {
           "Name": "Content-Type",
@@ -11182,11 +11594,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CvwdpPEywPZovGEDzGpbyItUVGIs92sB1H3atxdq1iQ=\""
+          "Value": "\"AVyJkijuh+BQYHisJ98hmlREl7He5Hq3Ya2H/cTEYQI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 17 Oct 2025 12:41:19 GMT"
+          "Value": "Thu, 23 Oct 2025 12:07:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11196,7 +11608,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "m9zil94tlm"
+          "Value": "d1138j4nsc"
         },
         {
           "Name": "label",
@@ -11204,7 +11616,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-CvwdpPEywPZovGEDzGpbyItUVGIs92sB1H3atxdq1iQ="
+          "Value": "sha256-AVyJkijuh+BQYHisJ98hmlREl7He5Hq3Ya2H/cTEYQI="
         }
       ]
     },
@@ -11219,7 +11631,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1124"
+          "Value": "1133"
         },
         {
           "Name": "Content-Type",
@@ -11227,11 +11639,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CvwdpPEywPZovGEDzGpbyItUVGIs92sB1H3atxdq1iQ=\""
+          "Value": "\"AVyJkijuh+BQYHisJ98hmlREl7He5Hq3Ya2H/cTEYQI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 17 Oct 2025 12:41:19 GMT"
+          "Value": "Thu, 23 Oct 2025 12:07:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11241,7 +11653,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-CvwdpPEywPZovGEDzGpbyItUVGIs92sB1H3atxdq1iQ="
+          "Value": "sha256-AVyJkijuh+BQYHisJ98hmlREl7He5Hq3Ya2H/cTEYQI="
         }
       ]
     }

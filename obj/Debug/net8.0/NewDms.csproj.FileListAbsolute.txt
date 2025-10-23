@@ -128,7 +128,7 @@ E:\NewDesign\NewDms\obj\Debug\net8.0\NewDms.MvcApplicationPartsAssemblyInfo.cach
 E:\NewDesign\NewDms\obj\Debug\net8.0\NewDms.RazorAssemblyInfo.cache
 E:\NewDesign\NewDms\obj\Debug\net8.0\NewDms.RazorAssemblyInfo.cs
 E:\NewDesign\NewDms\obj\Debug\net8.0\NewDms.sourcelink.json
-E:\NewDesign\NewDms\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\NewDesign\NewDms\obj\Debug\net8.0\scopedcss\Views\Shared\_LayoutOperation.cshtml.rz.scp.css
 E:\NewDesign\NewDms\obj\Debug\net8.0\scopedcss\bundle\NewDms.styles.css
 E:\NewDesign\NewDms\obj\Debug\net8.0\scopedcss\projectbundle\NewDms.bundle.scp.css
 E:\NewDesign\NewDms\obj\Debug\net8.0\staticwebassets.build.json
