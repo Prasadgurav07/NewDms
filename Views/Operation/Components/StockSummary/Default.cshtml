@@ -1,0 +1,179 @@
+﻿@model NewDms.Models.ReportSummary
+
+
+
+
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+
+@* <a id="sum_options" class="nav-link dropdown-toggle text-decoration-none text-black" style="width:fit-content;font-size:20px;" data-bs-toggle="dropdown" asp-controller="Operation" asp-action="Dashboard" aria-expanded="false">Sate Wise</a>
+
+<ul class="dropdown-menu shadow" id="sumryoptions">
+    <li class="dropdown-item" id="ByState">By State</li>
+    <li class="dropdown-item" id="ByWarehouse">By Warehouse</li>
+    <li class="dropdown-item" id="ByCCM">By CCM</li>
+</ul>
+ *@
+
+
+<div class="row" style="display:block;overflow:scroll;">
+    <h5>Stock Report</h5>
+    <div class="col-lg-8">
+        <table class="table table-bordered table-responsive-lg" id="stockreport">
+            <thead class="bg-dark text-light">
+                <tr>
+                    <th scope="col">Sr.No.</th>
+                    <th scope="col">State</th>
+                    <th scope="col">State Head</th>
+                    <th scope="col">AHM/HM</th>
+                    <th scope="col">CCM</th>
+                    <th scope="col">CM</th>
+                    <th scope="col">Warehouse</th>
+                    <th scope="col">Stock</th>
+                </tr>
+            </thead>
+            <tbody>
+                @{
+                    int i = 1;
+                }
+                @foreach(var item in Model._StockReport)
+                {
+                    <tr>
+                        <td>@i</td>
+                        <td>@item.State</td>
+                        <td>@item.SH</td>
+                        <td>@item.HM</td>
+                        <td>@item.CCM</td>
+                        <td>@item.CM</td>
+                        <td>@item._Warehousename</td>
+                        <td>@item.wstock</td>
+                    </tr>
+                    i++;
+                }
+
+            </tbody>
+        </table>
+    </div>
+</div>
+
+
+
+
+<script>
+        document.addEventListener("DOMContentLoaded", function () {
+
+            // When "By State" is clicked
+            document.getElementById("ByState").onclick = function () {
+                document.getElementById("statewise").style.display = "block";
+                document.getElementById("warehousewise").style.display = "none";
+                   document.getElementById("sum_options").innerHTML="State Wise";
+                        // enableTableFilter('statewisetbl');
+            };
+            
+        // When "By Warehouse" is clicked
+        document.getElementById("ByWarehouse").onclick = function () {
+            document.getElementById("statewise").style.display = "none";
+        document.getElementById("warehousewise").style.display = "block";
+         document.getElementById("sum_options").innerHTML="Warehouse Wise";
+         // enableTableFilter('wwisetbl');
+        };
+
+        // When "By CCM" is clicked
+        document.getElementById("ByCCM").onclick = function () {
+            document.getElementById("statewise").style.display = "none";
+        document.getElementById("warehousewise").style.display = "none";
+         document.getElementById("sum_options").innerHTML="CCM Wise";
+        };
+
+    });
+
+</script>
+
+<script>
+
+
+
+    function enableTableFilter(tableId) {
+      const table = document.getElementById(tableId);
+    if (!table) {
+        console.error("Table not found:", tableId);
+    return;
+      }
+
+    const thead = table.querySelector("thead");
+    const tbody = table.querySelector("tbody");
+    if (!thead || !tbody) {
+        console.error("Table missing <thead> or <tbody>:", tableId);
+    return;
+      }
+
+    const headerRow = thead.querySelector("tr");
+    const colCount = headerRow.children.length;
+
+    // Create a new filter row under headers
+    const filterRow = document.createElement("tr");
+    filterRow.style.backgroundColor = "#f0f0f0";
+    filterRow.style.fontSize="12px";
+
+    for (let i = 0; i < colCount; i++) {
+
+        const th = document.createElement("th");
+    const select = document.createElement("select");
+    select.innerHTML = '<option value="">All</option>';
+
+    // Get unique values for this column
+    const uniqueValues = [...new Set(
+    Array.from(tbody.rows)
+     .map(row => row.cells[i]?.innerText.trim())
+    )].sort();
+
+        uniqueValues.forEach(val => {
+          const opt = document.createElement("option");
+    opt.value = val;
+    opt.textContent = val;
+    select.appendChild(opt);
+        });
+
+        // Add event listener for filtering
+           select.addEventListener("change", () => {
+        // 1. Get selected value for each column
+        const filters = Array.from(filterRow.querySelectorAll("select")).map(s => s.value);
+
+        // 2. Loop over all table rows
+        Array.from(tbody.rows).forEach(row => {
+        let visible = true;
+
+            filters.forEach((val, index) => {
+                // Only check if a filter is selected
+                if (val) {
+                    const cellText = row.cells[index]?.innerText.trim(); // safe access
+    if (cellText !== val) visible = false;
+                }
+            });
+
+    // 3. Show or hide row
+    row.style.display = visible ? "" : "none";
+        });
+
+         enableTableFilter('stockreport');
+    });
+
+    th.appendChild(select);
+    filterRow.appendChild(th);
+
+     if(i==0 || i==colCount-1)
+        {
+            select.style.visibility="hidden";
+            continue;
+        }
+      }
+
+    // Insert filter row below the header
+
+    thead.appendChild(filterRow);
+    }
+
+    enableTableFilter('stockreport');
+</script>

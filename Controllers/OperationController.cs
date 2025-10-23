@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using NewDms.Data;
 using NewDms.Models;
 using NewDms.Repositories;
 
@@ -8,22 +9,19 @@ namespace NewDms.Controllers
     {
 
         private WarehouseRepo _warehouseRepo;
-        private SummaryRepo _summaryRepo;
+        private ReportSummaryRepo _summaryRepo;
 
-        public OperationController()
+        public OperationController(IConfiguration iconfiguration)
         {
             _warehouseRepo = new WarehouseRepo();
-            _summaryRepo = new SummaryRepo();
+            _summaryRepo = new ReportSummaryRepo(iconfiguration.GetConnectionString("DefaultConnection"));
         }
 
         public IActionResult Dashboard(int i)
         {
 
-            var slist = _summaryRepo.getSummarybystate();
-            var wlist=_summaryRepo.getSummarybywarehouse();
-            var clist=_summaryRepo.getSummarybyCCM();
-            ViewBag.i = i;  
-            Summary sm = new Summary(slist,wlist,clist);
+        
+            ReportSummary sm =_summaryRepo.GetAllReports();
             return View(sm);
         }
     }

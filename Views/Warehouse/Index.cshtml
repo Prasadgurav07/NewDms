@@ -16,10 +16,10 @@
     </div>
 </div>
 <div class="row">
-    <div class="col-lg-5">
+    <div class="col-lg-6">
         @await Component.InvokeAsync("WarehouseList")
     </div>
-    <div class="col-lg-7 rounded-2 border border-dark p-2" id="incontent" style="height:725px;">
+    <div class="col-lg-6 rounded-2 border border-dark p-2" id="incontent" style="height:725px;">
         <h4>Create Warehouse</h4>
         <div class="p-2">
         <form>
@@ -42,3 +42,9 @@
     </div>
   
 </div>
+
+@section Scripts {
+    <script>
+        enableTableFilter('wl');
+    </script>
+}

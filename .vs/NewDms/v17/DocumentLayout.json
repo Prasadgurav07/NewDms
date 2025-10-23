@@ -3,76 +3,108 @@
   "WorkspaceRootPath": "E:\\NewDesign\\NewDms\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|e:\\newdesign\\newdms\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|e:\\newdesign\\newdms\\controllers\\warehousecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|solutionrelative:controllers\\warehousecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|e:\\newdesign\\newdms\\views\\operation\\components\\stocksummary\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|solutionrelative:views\\operation\\components\\stocksummary\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|e:\\newdesign\\newdms\\views\\operation\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|solutionrelative:views\\operation\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|e:\\newdesign\\newdms\\views\\operation\\components\\summarypanel\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|solutionrelative:views\\operation\\components\\summarypanel\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|e:\\newdesign\\newdms\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|e:\\newdesign\\newdms\\controllers\\operationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|solutionrelative:controllers\\operationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|e:\\newdesign\\newdms\\viewcomponents\\summarypanelviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|solutionrelative:viewcomponents\\summarypanelviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|e:\\newdesign\\newdms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|e:\\newdesign\\newdms\\views\\warehouse\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|solutionrelative:views\\warehouse\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|e:\\newdesign\\newdms\\viewcomponents\\warehouselistviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|solutionrelative:viewcomponents\\warehouselistviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|e:\\newdesign\\newdms\\models\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|solutionrelative:models\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|e:\\newdesign\\newdms\\repositories\\summaryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|solutionrelative:repositories\\summaryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|e:\\newdesign\\newdms\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|e:\\newdesign\\newdms\\repositories\\warehouserepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|solutionrelative:repositories\\warehouserepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|e:\\newdesign\\newdms\\models\\summary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|solutionrelative:models\\summary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|e:\\newdesign\\newdms\\views\\warehouse\\components\\warehouselist\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|solutionrelative:views\\warehouse\\components\\warehouselist\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|e:\\newdesign\\newdms\\repositories\\reportsummaryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|solutionrelative:repositories\\reportsummaryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|e:\\newdesign\\newdms\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|e:\\newdesign\\newdms\\newdms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|solutionrelative:newdms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|e:\\newdesign\\newdms\\views\\warehouse\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|solutionrelative:views\\warehouse\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|e:\\newdesign\\newdms\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|e:\\newdesign\\newdms\\viewcomponents\\attendancesummaryviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|solutionrelative:viewcomponents\\attendancesummaryviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|e:\\newdesign\\newdms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|e:\\newdesign\\newdms\\viewcomponents\\stocksummaryviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|solutionrelative:viewcomponents\\stocksummaryviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|e:\\newdesign\\newdms\\views\\operation\\components\\attendancesummary\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|solutionrelative:views\\operation\\components\\attendancesummary\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|e:\\newdesign\\newdms\\data\\newdmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|solutionrelative:data\\newdmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|e:\\newdesign\\newdms\\repositories\\warehouserepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|solutionrelative:repositories\\warehouserepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|e:\\newdesign\\newdms\\models\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|solutionrelative:models\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|e:\\newdesign\\newdms\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|e:\\newdesign\\newdms\\models\\reportsummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|solutionrelative:models\\reportsummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|e:\\newdesign\\newdms\\models\\attendancereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|solutionrelative:models\\attendancereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|e:\\newdesign\\newdms\\models\\stockreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|solutionrelative:models\\stockreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|e:\\newdesign\\newdms\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|e:\\newdesign\\newdms\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|solutionrelative:models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|e:\\newdesign\\newdms\\controllers\\warehousecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|solutionrelative:controllers\\warehousecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|e:\\newdesign\\newdms\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|e:\\newdesign\\newdms\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|e:\\newdesign\\newdms\\newdms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|solutionrelative:newdms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|e:\\newdesign\\newdms\\viewcomponents\\warehouselistviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|solutionrelative:viewcomponents\\warehouselistviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|e:\\newdesign\\newdms\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -87,16 +119,8 @@
       "RelativeMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|solutionrelative:views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|e:\\newdesign\\newdms\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|e:\\newdesign\\newdms\\views\\home\\components\\index\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|solutionrelative:views\\home\\components\\index\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|e:\\newdesign\\newdms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DF442D5C-5454-4CE2-A828-8BEDE478CFBE}|NewDms.csproj|c:\\users\\icc 92\\.nuget\\packages\\bootstrap\\5.3.8\\contentfiles\\any\\any\\wwwroot\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
@@ -112,7 +136,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -120,202 +144,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Dashboard.cshtml",
-              "DocumentMoniker": "E:\\NewDesign\\NewDms\\Views\\Operation\\Dashboard.cshtml",
-              "RelativeDocumentMoniker": "Views\\Operation\\Dashboard.cshtml",
-              "ToolTip": "E:\\NewDesign\\NewDms\\Views\\Operation\\Dashboard.cshtml",
-              "RelativeToolTip": "Views\\Operation\\Dashboard.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-14T10:44:44.658Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WarehouseController.cs",
-              "DocumentMoniker": "E:\\NewDesign\\NewDms\\Controllers\\WarehouseController.cs",
-              "RelativeDocumentMoniker": "Controllers\\WarehouseController.cs",
-              "ToolTip": "E:\\NewDesign\\NewDms\\Controllers\\WarehouseController.cs",
-              "RelativeToolTip": "Controllers\\WarehouseController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T10:07:11.554Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "E:\\NewDesign\\NewDms\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "E:\\NewDesign\\NewDms\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABEAAAAAAAAAAAAIwDkAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-14T10:25:41.141Z",
-              "EditorCaption": ""
+              "Title": "ReportSummaryRepo.cs",
+              "DocumentMoniker": "E:\\NewDesign\\NewDms\\Repositories\\ReportSummaryRepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\ReportSummaryRepo.cs",
+              "ToolTip": "E:\\NewDesign\\NewDms\\Repositories\\ReportSummaryRepo.cs",
+              "RelativeToolTip": "Repositories\\ReportSummaryRepo.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowDoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T06:18:34.327Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "E:\\NewDesign\\NewDms\\Views\\Operation\\Components\\SummaryPanel\\Default.cshtml",
-              "RelativeDocumentMoniker": "Views\\Operation\\Components\\SummaryPanel\\Default.cshtml",
-              "ToolTip": "E:\\NewDesign\\NewDms\\Views\\Operation\\Components\\SummaryPanel\\Default.cshtml",
-              "RelativeToolTip": "Views\\Operation\\Components\\SummaryPanel\\Default.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAKMAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-16T09:56:17.864Z",
-              "EditorCaption": ""
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\NewDesign\\NewDms\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\NewDesign\\NewDms\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-17T10:17:09.439Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "OperationController.cs",
               "DocumentMoniker": "E:\\NewDesign\\NewDms\\Controllers\\OperationController.cs",
               "RelativeDocumentMoniker": "Controllers\\OperationController.cs",
               "ToolTip": "E:\\NewDesign\\NewDms\\Controllers\\OperationController.cs",
               "RelativeToolTip": "Controllers\\OperationController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwBAAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T10:44:13.726Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-14T10:44:13.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "E:\\NewDesign\\NewDms\\Views\\Operation\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Operation\\Dashboard.cshtml",
+              "ToolTip": "E:\\NewDesign\\NewDms\\Views\\Operation\\Dashboard.cshtml",
+              "RelativeToolTip": "Views\\Operation\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-14T10:44:44.658Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "E:\\NewDesign\\NewDms\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "E:\\NewDesign\\NewDms\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T10:25:04.235Z",
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "E:\\NewDesign\\NewDms\\Views\\Operation\\Components\\StockSummary\\Default.cshtml",
+              "RelativeDocumentMoniker": "Views\\Operation\\Components\\StockSummary\\Default.cshtml",
+              "ToolTip": "E:\\NewDesign\\NewDms\\Views\\Operation\\Components\\StockSummary\\Default.cshtml",
+              "RelativeToolTip": "Views\\Operation\\Components\\StockSummary\\Default.cshtml",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAAJIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-17T12:18:54.397Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "SummaryPanelViewComponent.cs",
-              "DocumentMoniker": "E:\\NewDesign\\NewDms\\ViewComponents\\SummaryPanelViewComponent.cs",
-              "RelativeDocumentMoniker": "ViewComponents\\SummaryPanelViewComponent.cs",
-              "ToolTip": "E:\\NewDesign\\NewDms\\ViewComponents\\SummaryPanelViewComponent.cs",
-              "RelativeToolTip": "ViewComponents\\SummaryPanelViewComponent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T09:58:25.213Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\NewDesign\\NewDms\\Views\\Warehouse\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Warehouse\\Index.cshtml",
               "ToolTip": "E:\\NewDesign\\NewDms\\Views\\Warehouse\\Index.cshtml",
               "RelativeToolTip": "Views\\Warehouse\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABUAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-15T10:07:23.777Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T10:07:23.777Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "WarehouseListViewComponent.cs",
-              "DocumentMoniker": "E:\\NewDesign\\NewDms\\ViewComponents\\WarehouseListViewComponent.cs",
-              "RelativeDocumentMoniker": "ViewComponents\\WarehouseListViewComponent.cs",
-              "ToolTip": "E:\\NewDesign\\NewDms\\ViewComponents\\WarehouseListViewComponent.cs",
-              "RelativeToolTip": "ViewComponents\\WarehouseListViewComponent.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T10:26:39.246Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Warehouse.cs",
-              "DocumentMoniker": "E:\\NewDesign\\NewDms\\Models\\Warehouse.cs",
-              "RelativeDocumentMoniker": "Models\\Warehouse.cs",
-              "ToolTip": "E:\\NewDesign\\NewDms\\Models\\Warehouse.cs",
-              "RelativeToolTip": "Models\\Warehouse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T10:09:38.963Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "SummaryRepo.cs",
-              "DocumentMoniker": "E:\\NewDesign\\NewDms\\Repositories\\SummaryRepo.cs",
-              "RelativeDocumentMoniker": "Repositories\\SummaryRepo.cs",
-              "ToolTip": "E:\\NewDesign\\NewDms\\Repositories\\SummaryRepo.cs",
-              "RelativeToolTip": "Repositories\\SummaryRepo.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T06:18:34.327Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "site.js",
-              "DocumentMoniker": "E:\\NewDesign\\NewDms\\wwwroot\\js\\site.js",
-              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
-              "ToolTip": "E:\\NewDesign\\NewDms\\wwwroot\\js\\site.js",
-              "RelativeToolTip": "wwwroot\\js\\site.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-10-16T09:25:14.811Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "WarehouseRepo.cs",
-              "DocumentMoniker": "E:\\NewDesign\\NewDms\\Repositories\\WarehouseRepo.cs",
-              "RelativeDocumentMoniker": "Repositories\\WarehouseRepo.cs",
-              "ToolTip": "E:\\NewDesign\\NewDms\\Repositories\\WarehouseRepo.cs",
-              "RelativeToolTip": "Repositories\\WarehouseRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T10:14:35.67Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Summary.cs",
-              "DocumentMoniker": "E:\\NewDesign\\NewDms\\Models\\Summary.cs",
-              "RelativeDocumentMoniker": "Models\\Summary.cs",
-              "ToolTip": "E:\\NewDesign\\NewDms\\Models\\Summary.cs",
-              "RelativeToolTip": "Models\\Summary.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T06:27:15.637Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "E:\\NewDesign\\NewDms\\Views\\Warehouse\\Components\\WarehouseList\\Default.cshtml",
-              "RelativeDocumentMoniker": "Views\\Warehouse\\Components\\WarehouseList\\Default.cshtml",
-              "ToolTip": "E:\\NewDesign\\NewDms\\Views\\Warehouse\\Components\\WarehouseList\\Default.cshtml",
-              "RelativeToolTip": "Views\\Warehouse\\Components\\WarehouseList\\Default.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-15T10:08:30.439Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 5,
               "Title": "site.css",
               "DocumentMoniker": "E:\\NewDesign\\NewDms\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
@@ -323,77 +225,107 @@
               "RelativeToolTip": "wwwroot\\css\\site.css",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-10-14T13:20:48.399Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-14T13:20:48.399Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "NewDms.csproj",
-              "DocumentMoniker": "E:\\NewDesign\\NewDms\\NewDms.csproj",
-              "RelativeDocumentMoniker": "NewDms.csproj",
-              "ToolTip": "E:\\NewDesign\\NewDms\\NewDms.csproj",
-              "RelativeToolTip": "NewDms.csproj",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\NewDesign\\NewDms\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "E:\\NewDesign\\NewDms\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-14T10:30:54.255Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-17T12:23:13.036Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "E:\\NewDesign\\NewDms\\Models\\Employee.cs",
-              "RelativeDocumentMoniker": "Models\\Employee.cs",
-              "ToolTip": "E:\\NewDesign\\NewDms\\Models\\Employee.cs",
-              "RelativeToolTip": "Models\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "AttendanceSummaryViewComponent.cs",
+              "DocumentMoniker": "E:\\NewDesign\\NewDms\\ViewComponents\\AttendanceSummaryViewComponent.cs",
+              "RelativeDocumentMoniker": "ViewComponents\\AttendanceSummaryViewComponent.cs",
+              "ToolTip": "E:\\NewDesign\\NewDms\\ViewComponents\\AttendanceSummaryViewComponent.cs",
+              "RelativeToolTip": "ViewComponents\\AttendanceSummaryViewComponent.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBUAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T07:03:13.512Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-17T10:20:59.029Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\NewDesign\\NewDms\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "E:\\NewDesign\\NewDms\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAOAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\NewDesign\\NewDms\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\NewDesign\\NewDms\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T10:52:55.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StockSummaryViewComponent.cs",
+              "DocumentMoniker": "E:\\NewDesign\\NewDms\\ViewComponents\\StockSummaryViewComponent.cs",
+              "RelativeDocumentMoniker": "ViewComponents\\StockSummaryViewComponent.cs",
+              "ToolTip": "E:\\NewDesign\\NewDms\\ViewComponents\\StockSummaryViewComponent.cs",
+              "RelativeToolTip": "ViewComponents\\StockSummaryViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T09:58:25.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "E:\\NewDesign\\NewDms\\Views\\Operation\\Components\\AttendanceSummary\\Default.cshtml",
+              "RelativeDocumentMoniker": "Views\\Operation\\Components\\AttendanceSummary\\Default.cshtml",
+              "ToolTip": "E:\\NewDesign\\NewDms\\Views\\Operation\\Components\\AttendanceSummary\\Default.cshtml",
+              "RelativeToolTip": "Views\\Operation\\Components\\AttendanceSummary\\Default.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-14T10:36:08.771Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-17T12:18:26.431Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "E:\\NewDesign\\NewDms\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "E:\\NewDesign\\NewDms\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-15T11:44:17.887Z",
-              "EditorCaption": ""
+              "DocumentIndex": 12,
+              "Title": "NewDmsDbContext.cs",
+              "DocumentMoniker": "E:\\NewDesign\\NewDms\\Data\\NewDmsDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\NewDmsDbContext.cs",
+              "ToolTip": "E:\\NewDesign\\NewDms\\Data\\NewDmsDbContext.cs",
+              "RelativeToolTip": "Data\\NewDmsDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T12:16:39.958Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "_Layout.cshtml.css",
-              "DocumentMoniker": "E:\\NewDesign\\NewDms\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml.css",
-              "ToolTip": "E:\\NewDesign\\NewDms\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-10-15T11:45:07.096Z",
-              "EditorCaption": ""
+              "DocumentIndex": 13,
+              "Title": "WarehouseRepo.cs",
+              "DocumentMoniker": "E:\\NewDesign\\NewDms\\Repositories\\WarehouseRepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\WarehouseRepo.cs",
+              "ToolTip": "E:\\NewDesign\\NewDms\\Repositories\\WarehouseRepo.cs",
+              "RelativeToolTip": "Repositories\\WarehouseRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T10:14:35.67Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 14,
+              "Title": "Warehouse.cs",
+              "DocumentMoniker": "E:\\NewDesign\\NewDms\\Models\\Warehouse.cs",
+              "RelativeDocumentMoniker": "Models\\Warehouse.cs",
+              "ToolTip": "E:\\NewDesign\\NewDms\\Models\\Warehouse.cs",
+              "RelativeToolTip": "Models\\Warehouse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T10:09:38.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "E:\\NewDesign\\NewDms\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
@@ -401,12 +333,167 @@
               "RelativeToolTip": "Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-14T10:25:37.162Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-14T10:25:37.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ReportSummary.cs",
+              "DocumentMoniker": "E:\\NewDesign\\NewDms\\Models\\ReportSummary.cs",
+              "RelativeDocumentMoniker": "Models\\ReportSummary.cs",
+              "ToolTip": "E:\\NewDesign\\NewDms\\Models\\ReportSummary.cs",
+              "RelativeToolTip": "Models\\ReportSummary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T06:27:15.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AttendanceReport.cs",
+              "DocumentMoniker": "E:\\NewDesign\\NewDms\\Models\\AttendanceReport.cs",
+              "RelativeDocumentMoniker": "Models\\AttendanceReport.cs",
+              "ToolTip": "E:\\NewDesign\\NewDms\\Models\\AttendanceReport.cs",
+              "RelativeToolTip": "Models\\AttendanceReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T10:37:53.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StockReport.cs",
+              "DocumentMoniker": "E:\\NewDesign\\NewDms\\Models\\StockReport.cs",
+              "RelativeDocumentMoniker": "Models\\StockReport.cs",
+              "ToolTip": "E:\\NewDesign\\NewDms\\Models\\StockReport.cs",
+              "RelativeToolTip": "Models\\StockReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T09:31:09.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\NewDesign\\NewDms\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "E:\\NewDesign\\NewDms\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T07:03:13.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "E:\\NewDesign\\NewDms\\Models\\Stock.cs",
+              "RelativeDocumentMoniker": "Models\\Stock.cs",
+              "ToolTip": "E:\\NewDesign\\NewDms\\Models\\Stock.cs",
+              "RelativeToolTip": "Models\\Stock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T10:45:47.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WarehouseController.cs",
+              "DocumentMoniker": "E:\\NewDesign\\NewDms\\Controllers\\WarehouseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WarehouseController.cs",
+              "ToolTip": "E:\\NewDesign\\NewDms\\Controllers\\WarehouseController.cs",
+              "RelativeToolTip": "Controllers\\WarehouseController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T10:07:11.554Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\NewDesign\\NewDms\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\NewDesign\\NewDms\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAACbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-14T10:25:41.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\NewDesign\\NewDms\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "E:\\NewDesign\\NewDms\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T10:25:04.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "NewDms.csproj",
+              "DocumentMoniker": "E:\\NewDesign\\NewDms\\NewDms.csproj",
+              "RelativeDocumentMoniker": "NewDms.csproj",
+              "ToolTip": "E:\\NewDesign\\NewDms\\NewDms.csproj",
+              "RelativeToolTip": "NewDms.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-14T10:30:54.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "WarehouseListViewComponent.cs",
+              "DocumentMoniker": "E:\\NewDesign\\NewDms\\ViewComponents\\WarehouseListViewComponent.cs",
+              "RelativeDocumentMoniker": "ViewComponents\\WarehouseListViewComponent.cs",
+              "ToolTip": "E:\\NewDesign\\NewDms\\ViewComponents\\WarehouseListViewComponent.cs",
+              "RelativeToolTip": "ViewComponents\\WarehouseListViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T10:26:39.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\NewDesign\\NewDms\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\NewDesign\\NewDms\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-14T10:36:08.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\NewDesign\\NewDms\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\NewDesign\\NewDms\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T11:44:17.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "E:\\NewDesign\\NewDms\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "E:\\NewDesign\\NewDms\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-15T11:45:07.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
               "Title": "Default.cshtml",
               "DocumentMoniker": "E:\\NewDesign\\NewDms\\Views\\Home\\Components\\Index\\Default.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Components\\Index\\Default.cshtml",
@@ -414,36 +501,22 @@
               "RelativeToolTip": "Views\\Home\\Components\\Index\\Default.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-15T10:01:36.23Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T10:01:36.23Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\NewDesign\\NewDms\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\NewDesign\\NewDms\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T10:52:55.009Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 30,
               "Title": "bootstrap.css",
               "DocumentMoniker": "C:\\Users\\ICC 92\\.nuget\\packages\\bootstrap\\5.3.8\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css",
               "ToolTip": "C:\\Users\\ICC 92\\.nuget\\packages\\bootstrap\\5.3.8\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css [Read Only]",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAADYAAAAjAAAAAQAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAACBjwDYAAAAjAAAAAQAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-10-14T13:20:28.36Z",
               "EditorCaption": " [Read Only]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 31,
               "Title": "Microsoft.Common.CurrentVersion.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",

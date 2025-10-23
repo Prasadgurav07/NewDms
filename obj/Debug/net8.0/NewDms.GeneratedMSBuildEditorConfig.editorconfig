@@ -28,8 +28,12 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NewDesign/NewDms/Views/Operation/Components/SummaryPanel/Default.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmF0aW9uXENvbXBvbmVudHNcU3VtbWFyeVBhbmVsXERlZmF1bHQuY3NodG1s
+[E:/NewDesign/NewDms/Views/Operation/Components/AttendanceSummary/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmF0aW9uXENvbXBvbmVudHNcQXR0ZW5kYW5jZVN1bW1hcnlcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/NewDesign/NewDms/Views/Operation/Components/StockSummary/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmF0aW9uXENvbXBvbmVudHNcU3RvY2tTdW1tYXJ5XERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/NewDesign/NewDms/Views/Operation/Dashboard.cshtml]
