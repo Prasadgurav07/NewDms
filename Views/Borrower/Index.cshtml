@@ -1,0 +1,109 @@
+﻿@using NewDms.Models
+
+@{
+    Layout = null;
+}
+
+<div class="row">
+    <div class="col-lg-12 p-2">
+        <ul class="nav nav-underline">
+            <li class="nav-item">
+                <button class="btn btn-primary me-2" style="width:fit-content;font-size:12px;">Active</button>
+            </li>
+            <li class="nav-item">
+                <button class="btn btn-primary me-2" style="width:fit-content;font-size:12px;">Active</button>
+            </li>
+            <li class="nav-item">
+                <button class="btn btn-primary me-2" style="width:fit-content;font-size:12px;">Active</button>
+            </li>
+        </ul>
+    </div>
+</div>
+<div class="row">
+    <div class="col-lg-12">
+        <table class="table" id="BorrowerList">
+            <thead class="bg-dark text-light">
+                <tr>
+                    <th>Bank</th>
+                    <th>State</th>
+                    <th>Location</th>
+                    <th>Borrower ID</th>
+                    <th>Borrower Name</th>
+                    <th>Borrower Code</th>
+                    <th>Borrower Add</th>
+                    <th>Applicable for</th>
+                    <th>Bank insurance</th>
+                    <th>Ent BY</th>
+                    <th>ENT DATE</th>
+                    <th>UPD BY</th>
+                    <th>UPD Date</th>
+                    <th>Approved BY</th>
+                    <th>Approval Date</th>
+                    <th>Status</th>
+                    <th>Action</th>
+                </tr>
+
+            </thead>
+            <tbody>
+                @if (Model != null)
+                {
+                    @foreach (var item in Model)
+                    {
+
+                        <tr>
+                            <td>Bank Name</td>
+                        <td>State Name</td>
+                        <td>Location Name</td>
+                        <td>BRW123</td>
+                        <td>John Doe</td>
+                        <td>BRW-CODE-001</td>
+                        <td>123 Main Street, City</td>
+                        <td>Yes</td>
+                        <td>ABC Insurance</td>
+                        <td>Admin</td>
+                        <td>2025-10-24</td>
+                        <td>Editor</td>
+                        <td>2025-10-24</td>
+                        <td>Manager</td>
+                        <td>2025-10-25</td>
+                        <td>Approved</td>
+                        <td>
+                            <button class="btn btn-sm btn-primary">Edit</button>
+                            <button class="btn btn-sm btn-danger">Delete</button>
+                        </td>
+                    </tr>
+
+
+
+                }
+                }
+            </tbody>
+        </table>
+
+
+    </div>
+    <div class="col-lg-6 rounded-2 border border-dark p-2" id="incontent" style="height:725px;">
+        <h4>Add Borrower</h4>
+        <div class="p-2">
+            <form>
+                <div class="mb-3">
+                    <label for="exampleInputEmail1" class="form-label">Email address</label>
+                    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+                </div>
+                <div class="mb-3">
+                    <label for="exampleInputPassword1" class="form-label">Password</label>
+                    <input type="password" class="form-control" id="exampleInputPassword1">
+                </div>
+                <div class="mb-3 form-check">
+                    <input type="checkbox" class="form-check-input" id="exampleCheck1">
+                    <label class="form-check-label" for="exampleCheck1">Check me out</label>
+                </div>
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
+        </div>
+    </div>
+
+</div>
+
+

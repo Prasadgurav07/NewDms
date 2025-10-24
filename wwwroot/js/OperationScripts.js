@@ -110,20 +110,26 @@ function enableTableFilter(tableId) {
 
 
 
+const menus = ["Warehouse","Borrower","Location","Survey","SVS","SR","QC","Release","Insurance","Insurance Mapping"];
 
+function makemenulinks() {
+    menus.forEach((menu, index) => {
+        document.getElementById(menu+'Operation').addEventListener('click', () => {
+            const userid = 123;
 
+            fetch('/'+menu+'/Index?userid=${userid}')
+                .then(res => res.text())
+                .then(html => {
+                    document.getElementById('content').innerHTML = html;
+                    enableTableFilter(menu+'List');
+                })
+                .catch(err => console.error(err));
+        });
+    });
+   
+}
 
-document.getElementById('WarehouseOperation').addEventListener('click', () => {
-    const userid = 123;
-
-    fetch('/Warehouse/Index?userid=${userid}')
-        .then(res => res.text())
-        .then(html => {
-            document.getElementById('content').innerHTML = html;
-            enableTableFilter('wl');
-        })
-        .catch(err => console.error(err));
-});
+makemenulinks();
 
 
 function getreport(report) {

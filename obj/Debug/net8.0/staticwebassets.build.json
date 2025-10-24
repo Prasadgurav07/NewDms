@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "K7XQupPLLl3nqMdGfXgrZwoQ8CSLTl7WR3BYtQMyhzU=",
+  "Hash": "LsZFvkCeKw3CtZrps5jKj+/b9ZEZCCAhLr4leXqMftc=",
   "Source": "NewDms",
   "BasePath": "_content/NewDms",
   "Mode": "Default",
@@ -1186,8 +1186,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "3ecnmetl3h",
-      "Integrity": "e3xA8yaSaQEj477e/lhT6dr7gyEYJKHT0gUBVI0EUgo=",
+      "Fingerprint": "kxoo1yhxu6",
+      "Integrity": "OE0RQIv0PaFTamlhPudeNWCGblmT4feAdRWiyy2qORg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\OperationScripts.js"
@@ -6780,51 +6780,6 @@
       ]
     },
     {
-      "Route": "js/OperationScripts.3ecnmetl3h.js",
-      "AssetFile": "E:\\NewDesign\\NewDms\\wwwroot\\js\\OperationScripts.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5744"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"e3xA8yaSaQEj477e/lhT6dr7gyEYJKHT0gUBVI0EUgo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 10:46:00 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "3ecnmetl3h"
-        },
-        {
-          "Name": "label",
-          "Value": "js/OperationScripts.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-e3xA8yaSaQEj477e/lhT6dr7gyEYJKHT0gUBVI0EUgo="
-        }
-      ]
-    },
-    {
       "Route": "js/OperationScripts.js",
       "AssetFile": "E:\\NewDesign\\NewDms\\wwwroot\\js\\OperationScripts.js",
       "Selectors": [],
@@ -6835,7 +6790,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5744"
+          "Value": "6033"
         },
         {
           "Name": "Content-Type",
@@ -6843,11 +6798,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"e3xA8yaSaQEj477e/lhT6dr7gyEYJKHT0gUBVI0EUgo=\""
+          "Value": "\"OE0RQIv0PaFTamlhPudeNWCGblmT4feAdRWiyy2qORg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 10:46:00 GMT"
+          "Value": "Fri, 24 Oct 2025 12:45:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6857,7 +6812,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-e3xA8yaSaQEj477e/lhT6dr7gyEYJKHT0gUBVI0EUgo="
+          "Value": "sha256-OE0RQIv0PaFTamlhPudeNWCGblmT4feAdRWiyy2qORg="
+        }
+      ]
+    },
+    {
+      "Route": "js/OperationScripts.kxoo1yhxu6.js",
+      "AssetFile": "E:\\NewDesign\\NewDms\\wwwroot\\js\\OperationScripts.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6033"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OE0RQIv0PaFTamlhPudeNWCGblmT4feAdRWiyy2qORg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 12:45:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kxoo1yhxu6"
+        },
+        {
+          "Name": "label",
+          "Value": "js/OperationScripts.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OE0RQIv0PaFTamlhPudeNWCGblmT4feAdRWiyy2qORg="
         }
       ]
     },
@@ -11722,7 +11722,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Oct 2025 12:07:31 GMT"
+          "Value": "Fri, 24 Oct 2025 12:49:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11759,7 +11759,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Oct 2025 12:07:31 GMT"
+          "Value": "Fri, 24 Oct 2025 12:49:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11804,7 +11804,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Oct 2025 12:07:31 GMT"
+          "Value": "Fri, 24 Oct 2025 12:49:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11849,7 +11849,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Oct 2025 12:07:31 GMT"
+          "Value": "Fri, 24 Oct 2025 12:49:38 GMT"
         },
         {
           "Name": "Cache-Control",
