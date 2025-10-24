@@ -189,12 +189,20 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "E:\\NewDesign\\NewDms\\wwwroot\\icons\\bell-fill.svg",
+      "PackagePath": "staticwebassets\\icons\\bell-fill.svg"
+    },
+    {
       "Id": "E:\\NewDesign\\NewDms\\wwwroot\\icons\\eye.svg",
       "PackagePath": "staticwebassets\\icons\\eye.svg"
     },
     {
       "Id": "E:\\NewDesign\\NewDms\\wwwroot\\icons\\house-door.svg",
       "PackagePath": "staticwebassets\\icons\\house-door.svg"
+    },
+    {
+      "Id": "E:\\NewDesign\\NewDms\\wwwroot\\icons\\person-circle.svg",
+      "PackagePath": "staticwebassets\\icons\\person-circle.svg"
     },
     {
       "Id": "E:\\NewDesign\\NewDms\\wwwroot\\js\\AccountScripts.js",

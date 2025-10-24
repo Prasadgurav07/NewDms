@@ -1,49 +1,198 @@
 ﻿@{
-   Layout = "~/Views/Shared/_LayoutOperation.cshtml";
- 
+    Layout = "~/Views/Shared/_LayoutOperation.cshtml";
+
 }
 
 <div class="row">
     <div class="col-lg-4">
-        <div class="card">
+        <div class="card shadow">
             <h5 class="card-header header box">Warehouse Overview</h5>
+           
             <div class="card-body">
                 <h6 class="card-title">Total Warehouses</h6>
-                <h4 class="card-text">500</h4>
-            </div>
-            <div class="card-body">
-                <ol class="list-group list-group-numbered">
+                <h4 class="card-text">5000</h4>
+                <ul class="list-group ">
                     <li class="list-group-item d-flex justify-content-between align-items-start">
                         <div class="ms-2 me-auto">
                             <div class="fw-bold">Working</div>
-                          
+
                         </div>
                         <span class="badge bg-primary rounded-pill"> 12356</span>
                     </li>
                     <li class="list-group-item d-flex justify-content-between align-items-start">
                         <div class="ms-2 me-auto">
                             <div class="fw-bold">Terminated</div>
-                         
+
                         </div>
                         <span class="badge bg-primary rounded-pill">  1233</span>
                     </li>
-                </ol>
+                    <li class="list-group-item d-flex justify-content-between align-items-start">
+                        <div class="ms-2 me-auto">
+                            <div class="fw-bold"> Across loccations </div>
+
+                        </div>
+                        <span class="badge bg-primary rounded-pill">  1233</span>
+                    </li>
+
+                </ul>
             </div>
 
-            <p>
-                Across loccations : 3000
-            </p>
-          
+            <div class="card-body">
+                <h6 class="card-title">Storage Capacity</h6>
+                <h4 class="card-text">54388400</h4>
+                <ul class="list-group">
+
+                    <li class="list-group-item d-flex justify-content-between align-items-start">
+                        <div class="ms-2 me-auto">
+                            <div class="fw-bold"> Utilization </div>
+
+                        </div>
+                        <span class="badge bg-primary rounded-pill">  1233</span>
+                    </li>
+                    <li class="list-group-item d-flex justify-content-between align-items-start">
+                        <div class="ms-2 me-auto">
+                            <div class="fw-bold"> Not in use </div>
+
+                        </div>
+                        <span class="badge bg-primary rounded-pill">  1233</span>
+                    </li>
+                </ul>
+            </div>
+
+
         </div>
     </div>
-    <div class="col-lg-8">
-        <div class="card">
-            <h5 class="card-header">Monthly Schedule</h5>
+    <div class="col-lg-6">
+        <div class="card shadow">
+            <h5 class="card-header box header">October 2025 Schedule</h5>
             <div class="card-body">
-                <h5 class="card-title">Special title treatment</h5>
-                <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                <a href="#" class="btn btn-primary">Go somewhere</a>
+                <table class="table table-bordered">
+                    <thead>
+                        <tr>
+                            <th scope="col">Sun</th>
+                            <th scope="col">Mon</th>
+                            <th scope="col">Tue</th>
+                            <th scope="col">Wed</th>
+                            <th scope="col">Thur</th>
+                            <th scope="col">Fri</th>
+                            <th scope="col">Sat</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @{
+
+                            int[] dis = { 5, 8, 20, 24 };
+                            int[] rel = { 9, 12, 21 };
+                            int i = 0;
+                            @while (i <=30)
+                            {
+                                i++;
+                                <tr>
+                                    @while (i % 7 != 0 && i<=30)
+                                    {
+                                        @if(dis.Contains(i))
+                                        {
+                                            <td class="bg-primary text-white">@i</td>
+                                        }
+                                        else if(rel.Contains(i))
+                                        {
+                                            <td class="bg-warning">@i</td>
+                                        }
+                                        else{
+                                            <td>@i</td>
+                                        }
+                                       
+                                        i++;
+                                    }
+                                    @if (dis.Contains(i))
+                                    {
+                                        <td class="bg-primary text-white">@i</td>
+                                    }
+                                    else if (rel.Contains(i))
+                                    {
+                                        <td class="bg-warning">@i</td>
+                                    }
+                                    else
+                                    {
+                                        <td>@i</td>
+                                    }
+
+                                </tr>
+
+                            }
+
+                        }
+                    </tbody>
+                </table>
+            </div>
+            <div class="card-body">
+                <ul class="list-group">
+
+                    <li class="list-group-item d-flex justify-content-between align-items-start">
+                        <div class="ms-2 me-auto">
+                            <div class="fw-bold"> Disbursments </div>
+
+                        </div>
+                        <span class="badge bg-primary rounded-pill">  3</span>
+                    </li>
+                    <li class="list-group-item d-flex justify-content-between align-items-start">
+                        <div class="ms-2 me-auto">
+                            <div class="fw-bold"> Release </div>
+
+                        </div>
+                        <span class="badge bg-primary rounded-pill">  2</span>
+                    </li>
+                </ul>
+            </div>
+
+
+        </div>
+    </div>
+    <div class="col-lg-2">
+        <div class="card shadow">
+            <h5 class="card-header box header">Directs</h5>
+            <div class="card-body">
+                <ul class="list-group list-group-flush">
+                    <li class="list-group-item">An item</li>
+                    <li class="list-group-item">A second item</li>
+                    <li class="list-group-item">A third item</li>
+                    <li class="list-group-item">A fourth item</li>
+                    <li class="list-group-item">And a fifth one</li>
+                </ul>
             </div>
         </div>
+    </div>
+</div>
+
+
+<div class="row mt-3 shadow rounded-2 p-2">
+    
+    <div class="header rounded-2">
+        <div class="p-2">
+            <ul class="nav tab-list">
+                <li class="nav-item">
+                    <span class="nav-link active" href="#">Home</span>
+                </li>
+                <li class="nav-item">
+                    <span class="nav-link" href="#">About</span>
+                </li>
+                <li class="nav-item">
+                    <span class="nav-link" href="#">Services</span>
+                </li>
+                <li class="nav-item">
+                    <span class="nav-link" href="#">Contact</span>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="col-lg-12 p-2" id="subcontent" style="height:500px;">
+        
+        <div class="row">
+            <div class="col-lg-6">
+               
+            </div>
+        </div>
+
     </div>
 </div>

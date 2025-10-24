@@ -19,9 +19,9 @@
 
 
 <div class="row" style="display:block;">
-    <h5>Stock Report</h5>
+    <h5>Attendance Report</h5>
     <div class="col-lg-8">
-        <table class="table table-bordered table-responsive-lg" id="statewisetbl">
+        <table class="table table-bordered table-responsive-lg" id="attendancereporttable">
             <thead class="bg-dark text-light">
                 <tr>
                     <th scope="col">Sr.No.</th>
@@ -45,31 +45,6 @@
 
 
 <script>
-        document.addEventListener("DOMContentLoaded", function () {
-
-            // When "By State" is clicked
-            document.getElementById("ByState").onclick = function () {
-                document.getElementById("statewise").style.display = "block";
-                document.getElementById("warehousewise").style.display = "none";
-                   document.getElementById("sum_options").innerHTML="State Wise";
-                        // enableTableFilter('statewisetbl');
-            };
-            
-        // When "By Warehouse" is clicked
-        document.getElementById("ByWarehouse").onclick = function () {
-            document.getElementById("statewise").style.display = "none";
-        document.getElementById("warehousewise").style.display = "block";
-         document.getElementById("sum_options").innerHTML="Warehouse Wise";
-         // enableTableFilter('wwisetbl');
-        };
-
-        // When "By CCM" is clicked
-        document.getElementById("ByCCM").onclick = function () {
-            document.getElementById("statewise").style.display = "none";
-        document.getElementById("warehousewise").style.display = "none";
-         document.getElementById("sum_options").innerHTML="CCM Wise";
-        };
-
-    });
+   
 
 </script>

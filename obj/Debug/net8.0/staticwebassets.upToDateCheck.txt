@@ -44,8 +44,10 @@ C:\Users\ICC 92\.nuget\packages\bootstrap\5.3.8\contentFiles\any\any\wwwroot\js\
 C:\Users\ICC 92\.nuget\packages\bootstrap\5.3.8\contentFiles\any\any\wwwroot\js\bootstrap.min.js.map
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\icons\bell-fill.svg
 wwwroot\icons\eye.svg
 wwwroot\icons\house-door.svg
+wwwroot\icons\person-circle.svg
 wwwroot\js\AccountScripts.js
 wwwroot\js\AuditScripts.js
 wwwroot\js\HrScripts.js

@@ -1,7 +1,5 @@
 ﻿// Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
 // for details on configuring this project to bundle and minify static web assets.
-<script>
-   
 
 
     function enableTableFilter(tableId) {
@@ -71,6 +69,14 @@
     // Insert filter row below the header
 
     thead.appendChild(filterRow);
-    }
+}
 
-</script>
+
+
+const links = document.querySelectorAll('.tab-list .nav-link');
+links.forEach(link => {
+    link.addEventListener('click', () => {
+        links.forEach(l => l.classList.remove('active'));
+        link.classList.add('active');
+    });
+});

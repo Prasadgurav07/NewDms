@@ -24,5 +24,15 @@ namespace NewDms.Controllers
             ReportSummary sm =_summaryRepo.GetAllReports();
             return View(sm);
         }
+
+        public IActionResult LoadStockReport()
+        {
+            return ViewComponent("StockSummary");
+        }
+
+        public IActionResult LoadAttendanceReport()
+        {
+            return ViewComponent("AttendanceSummary");
+        }
     }
 }
